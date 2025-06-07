@@ -1,0 +1,12 @@
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\bin\Debug\Factorial.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\bin\Debug\Factorial.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\bin\Debug\Factorial.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\obj\Debug\Factorial.vbproj.AssemblyReference.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\obj\Debug\Factorial.Resources.resources
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\obj\Debug\Factorial.vbproj.GenerateResource.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\obj\Debug\Factorial.vbproj.CoreCompileInputs.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\obj\Debug\Factorial.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\obj\Debug\Factorial.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\obj\Debug\Factorial.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\Factorial\obj\Debug\Factorial.frmFactorial.resources
